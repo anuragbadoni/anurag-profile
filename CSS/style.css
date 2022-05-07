@@ -10,5 +10,15 @@ color: darkseagreen;
 }
 image
 {
-size: 44px;
+ali
+}
+table
+{
+    border-collapse: collapse;
+}
+tr
+{
+    text-align: center;
+    vertical-align: bottom;
+    padding: 10px;
 }
